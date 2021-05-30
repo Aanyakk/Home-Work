@@ -21,13 +21,13 @@
     width: 100%;
     line-height:3 ;
     text-align: center;
-    background-color: rgb(38, 139, 255);
-    color: rgb(255, 211, 211);
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 255, 234);
 }
 
 canvas
 {
     border-radius: 11px;
-    border: 9px solid blue;
-    box-shadow: 5px 5px 11px red;
+    border: 9px solid rgb(0, 255, 149);
+    box-shadow: 5px 5px 11px greenyellow;
 }
